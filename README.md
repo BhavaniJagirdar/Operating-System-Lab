@@ -29,3 +29,5 @@
 
 ![osname](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/e94d0c51b89c01fbe1db7596afb8e0282bbc3fe0/uname(1).png)
 
+![osversion](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/43ace7c9fa036466cf2b41cd7a1ef1ab343e641e/uname%20-r(1).png)
+
