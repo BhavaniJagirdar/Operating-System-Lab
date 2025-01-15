@@ -37,7 +37,13 @@
 
 ![textname](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/488296d45e0c7677a8df46c34b131f8a693b684e/echo1(1).png)
 
-##Display Home Directory
+## DirectoryName Display
 
 ![homedict](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/0a5b33c963f734c9ec6599e034fc88aab0948119/echo2(1).png)
+
+##Directory Commands
+
+![path](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/cdea13875f88691726bfb63c8d524c632d473f2f/pwd(1).png)
+
+
 
