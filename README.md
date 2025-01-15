@@ -10,3 +10,7 @@
 ![Dateyearonly](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/958ed0b93bd209e6d60b9eab3d6b47cddfe8fb19/date4(1).png)
 
 ![Datehouronly](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/5df219faa2f47b2f5947d27734e7d23381a4a417/date5(1).png)
+
+##Calender Commands
+
+![cal](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/f25eb5d65a567385233bef3c0a50dddaa8d1cece/cal1(1).png)
