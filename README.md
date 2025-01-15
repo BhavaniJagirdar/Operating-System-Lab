@@ -49,5 +49,9 @@
 
 ![subdict](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/6ddb0ac0448230e601c1f780fcc6f0d52ba1404b/mkdir%20dir1%20dir2(1).png)
 
+##File Commands
+
+![createfile](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/33da00bef5b757041cf56cde6ef9d3f9979cdab2/catfilecreate(1).png)
+
 
 
