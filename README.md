@@ -45,5 +45,7 @@
 
 ![path](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/cdea13875f88691726bfb63c8d524c632d473f2f/pwd(1).png)
 
+![dictcreation](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/ea4e8ccd4b3bf31e7156777bac13ddb72e6b454e/mkdir%20dir(1).png)
+
 
 
