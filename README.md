@@ -47,5 +47,7 @@
 
 ![dictcreation](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/ea4e8ccd4b3bf31e7156777bac13ddb72e6b454e/mkdir%20dir(1).png)
 
+![subdict](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/6ddb0ac0448230e601c1f780fcc6f0d52ba1404b/mkdir%20dir1%20dir2(1).png)
+
 
 
