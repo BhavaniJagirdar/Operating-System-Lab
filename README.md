@@ -6,3 +6,5 @@
 ![Dateonly](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/7e2fb0c4def03a9e8b1d69397bac52807236f0cd/date2(1).png)
 
 ![Datetimeonly](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/23dd8b95656654b63f844389dd216bba39f6eb2d/date3(1).png)
+
+![Dateyearonly](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/958ed0b93bd209e6d60b9eab3d6b47cddfe8fb19/date4(1).png)
