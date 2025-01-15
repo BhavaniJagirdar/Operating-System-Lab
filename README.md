@@ -37,3 +37,7 @@
 
 ![textname](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/488296d45e0c7677a8df46c34b131f8a693b684e/echo1(1).png)
 
+##Display Home Directory
+
+![homedict](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/0a5b33c963f734c9ec6599e034fc88aab0948119/echo2(1).png)
+
