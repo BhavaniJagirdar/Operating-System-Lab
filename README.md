@@ -33,3 +33,7 @@
 
 ![osdomainname](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/31a956928e6329bb91228c07e176430f5ed20212/uname%20-n(1).png)
 
+##Text
+
+![textname](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/488296d45e0c7677a8df46c34b131f8a693b684e/echo1(1).png)
+
