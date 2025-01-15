@@ -25,3 +25,7 @@
 ##Terminal Name
 ![terminalname](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/da1650e5c97b75f0a10842031191c043a7534a6d/tty(1).png)
 
+##About OperatingSystem
+
+![osname](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/e94d0c51b89c01fbe1db7596afb8e0282bbc3fe0/uname(1).png)
+
