@@ -17,6 +17,9 @@
 
 ![calyear](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/7afd2a879c8f96d2edac1b7de39008b5c16833c8/cal11(1).png)
 
+##Terminal Name
+![terminalname](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/da1650e5c97b75f0a10842031191c043a7534a6d/tty(1).png)
+
 ![calyear](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/041e8ae690f3d221202e6a473fa0fd7168051a30/cal12(1).png)
 
 ![calmonthyear](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/3ddd837a6f60c25b5e908ce6b6403d19d424f566/cal3(1).png)
