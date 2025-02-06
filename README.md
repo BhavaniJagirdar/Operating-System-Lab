@@ -217,6 +217,7 @@ simulate_ls(path);
 return 0;
 }
 ```
+![ls_cmd](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/76fef8ed08349eed04ee593df1bbc9f5d3788570/1bls.png)
 
 
 
