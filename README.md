@@ -57,7 +57,7 @@
 ![cal_year2](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/176a99bd91b5dcbfab52ec747b51cdb9ff5b05d7/calyear2.png)
 ![cal_month_year](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/e2d2bb2be981d6463ddae7f48bf6e0e116f868ff/calmonthyear.png)
 ![who_cmd](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/8e3fe5aa385507b7f96b4687e6d89ec699df3035/who.png)
-![whoami_cmd](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/f9c2a5021b89e74e80348b1af1e6b87524797b4c/whoami.png
+![whoami_cmd]
 ![tty_cmd](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/6365dfdde0f241a44b9e28bffc26dd0e52f92dc8/tty.png)
 ![uname_cmd](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/a72df4285d2c702236e702cb92e5ee47af2423d8/uname.png)
 ![uname_-r](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/12144fb98927e6c8100c37622ec213a91009dc76/uname%20-r.png)
