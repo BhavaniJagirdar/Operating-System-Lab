@@ -106,3 +106,4 @@ int main() {
 }
 ```
 # Output of the code
+![Output of system calls](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/10462de9653b2137e8678b4cfd54cc7cbfbc2764/Exp2/2exp.png)
