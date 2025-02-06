@@ -246,7 +246,7 @@ simulate_grep(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 ```
-![grep_cmd](
+![grep_cmd](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/06d6b044d23be328bad6670aaadd0e4a10dc093a/1bgrep.png)
 
 
 
