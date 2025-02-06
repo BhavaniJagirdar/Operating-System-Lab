@@ -109,4 +109,4 @@ int main() {
 ![Output of system calls](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/10462de9653b2137e8678b4cfd54cc7cbfbc2764/Exp2/2exp.png)
 
 ## RESULT
- Thus the study and execution of Unix Operating System Calls is successfully completed.
+ Thus the study and execution of Unix Operating System Calls has been completed successfully.
