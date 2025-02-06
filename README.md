@@ -101,5 +101,8 @@
    ![filecmd2](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/4e7d625d100eb2167c2003ea45a1591c6c4e38bc/filecmd2ospic.png)
    ![filecmd3](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/2caa0b74e90b946a298308b633c6744715054c5c/filecmd3ospic.png)
 
+   ## RESULT
+ Thus the study and execution of Unix commands has been completed successfully.
+
 
 
