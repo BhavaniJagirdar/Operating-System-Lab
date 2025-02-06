@@ -189,6 +189,7 @@ simulate_cp(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 ```
+![cp1](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/6a2157f47494f235707f2ec74ff6e7763a2e622c/1bcp1.png)
 
 
 
