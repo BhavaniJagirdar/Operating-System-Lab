@@ -162,6 +162,7 @@ int main() {
 # Output of the code
 ![Output1](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/adfa454d4b1c116bab799814e3cbb5ecc7dcdd93/Exp3/3exp.png)
 ![Output2](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/46d4dde57858f6f4fadf9812448401fa8b02a30f/Exp3/3exp2.png)
+![Output3](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/27ea8309e7810140d1a1b72d47b6f937af411c89/Exp3/3exp3.png)
 
 ## RESULT
  Thus the study and execution 
