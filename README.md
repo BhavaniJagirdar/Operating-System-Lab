@@ -64,5 +64,6 @@
 ![uname_-n](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/de144b0b519ee107970cf107262a356e3b914c1a/uname%20-n.png)
 ![echo_txt](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/58a3f17bbf05378da417e855d907752374eba193/echotext.png)
 ![echo_$HOME](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/cc5c82aefb148249cb49ebda67df14a209f95428/echo%24Home.png)
+![bc_cmd](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/12f7cbf8e3ec1fa3af055976b812eeed08d4c04b/bc.png)
 
 
