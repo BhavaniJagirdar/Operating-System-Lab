@@ -91,6 +91,7 @@
    Removes an empty sub-directory.
   ```
    ![pwd_cmd](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/b957959cd6f81c63de6dc96fa681c2716cf19705/pwd.png)
+   ![mkdir dir](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/50c1ce22f133b054cd5b87b2d07418b2a399f1bb/mkdir%20dir.png)
   
 
 
