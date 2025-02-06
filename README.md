@@ -70,4 +70,26 @@
 ![history](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/dc710fa8c3debeb89e953bf39f69c468ea24f4f9/history.png)
 ![history1](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/d50460ab6a165a7e7f74289a06b7c9a81c15494e/history1.png)
 
+### Directory Commands
+```unix
+  pwd
+  Path of the present working directory
+  mkdir dir
+  A directory is created in the given name under the current directory
+  mkdir dir1 dir2
+  A number of sub-directories can be created under one stroke
+  cd subdir
+  Change Directory. If the subdir starts with / then path starts from root (absolute)
+  otherwise from current working directory.
+  Cd
+  To switch to the home directory.
+  cd /
+  To switch to the root directory.
+  cd ..
+  To move back to the parent directory
+  rmdir subdir
+   Removes an empty sub-directory.
+  ```
+  
+
 
