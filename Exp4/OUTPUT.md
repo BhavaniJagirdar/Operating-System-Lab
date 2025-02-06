@@ -117,5 +117,5 @@ int main() {
     return 0;
 }
 ```
-![monitor output]
+![monitor output](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/dcd546f885847df47927e2be8e6dda09cda93189/Exp4/4bexp.png)
 
