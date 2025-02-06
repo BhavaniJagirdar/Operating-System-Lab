@@ -246,6 +246,7 @@ simulate_grep(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 ```
+![grep_cmd](
 
 
 
