@@ -165,4 +165,4 @@ int main() {
 ![Output3](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/27ea8309e7810140d1a1b72d47b6f937af411c89/Exp3/3exp3.png)
 
 ## RESULT
- Thus the study and execution 
+ Thus the study and execution of CPU Scheduling Algorithms has been completed successfully.
