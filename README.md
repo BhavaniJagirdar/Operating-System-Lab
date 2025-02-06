@@ -98,7 +98,7 @@
    ### File Commands
 
    ![filecmd1](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/d943479b267ad11383183551749533a365433392/filecmd1ospic.png)
-
+   ![filecmd2](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/4e7d625d100eb2167c2003ea45a1591c6c4e38bc/filecmd2ospic.png)
    
   
 
