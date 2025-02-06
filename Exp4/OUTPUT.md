@@ -119,3 +119,5 @@ int main() {
 ```
 ![monitor output](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/dcd546f885847df47927e2be8e6dda09cda93189/Exp4/4bexp.png)
 
+## RESULT
+ Thus the study and execution of Semiphore and Monitor has been completed successfully.
