@@ -192,5 +192,31 @@ return EXIT_SUCCESS;
 ![cp1](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/6a2157f47494f235707f2ec74ff6e7763a2e622c/1bcp1.png)
 ![cp2](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/5d8b33afcef624a7c5e2c4c9a5658f391707f5fa/1bcp2.png)
 
+## Simulation code for ls command
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <dirent.h>
+void simulate_ls(const char *path) {
+struct dirent *entry;
+DIR *dir = opendir(path);
+if (!dir) {
+perror("Error opening directory");
+return;
+}
+while ((entry = readdir(dir)) != NULL) {
+if (entry->d_name[0] != '.') {
+printf("%s ", entry->d_name);
+}
+}
+printf("\n");
+closedir(dir);
+}int main(int argc, char *argv[]) {
+const char *path = argc > 1 ? argv[1] : ".";
+simulate_ls(path);
+return 0;
+}
+```
+
 
 
