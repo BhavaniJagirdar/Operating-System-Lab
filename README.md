@@ -54,5 +54,6 @@
 ![hour_only](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/d3bbb3faf66ebca9c4dbfd1806b49117e4f0c436/date5(1)(1).png)
 ![cal_cmd](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/93fb26304bac35b881a1bf372d66c0e2c264f68d/cal.png)
 ![cal_year1](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/d4a4845b2b83d6f414fe8a20dae390d228c7c542/calyear.png)
+![cal_year2](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/176a99bd91b5dcbfab52ec747b51cdb9ff5b05d7/calyear2.png)
 
 
