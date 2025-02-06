@@ -159,3 +159,8 @@ int main() {
     return 0;
 }
 ```
+# Output of the code
+![Output1]
+
+## RESULT
+ Thus the study and execution 
