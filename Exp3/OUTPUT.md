@@ -160,7 +160,7 @@ int main() {
 }
 ```
 # Output of the code
-![Output1]
+![Output1](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/adfa454d4b1c116bab799814e3cbb5ecc7dcdd93/Exp3/3exp.png)
 
 ## RESULT
  Thus the study and execution 
