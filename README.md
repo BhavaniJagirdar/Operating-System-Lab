@@ -190,6 +190,7 @@ return EXIT_SUCCESS;
 }
 ```
 ![cp1](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/6a2157f47494f235707f2ec74ff6e7763a2e622c/1bcp1.png)
+![cp2](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/5d8b33afcef624a7c5e2c4c9a5658f391707f5fa/1bcp2.png)
 
 
 
