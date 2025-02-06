@@ -248,5 +248,7 @@ return EXIT_SUCCESS;
 ```
 ![grep_cmd](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/06d6b044d23be328bad6670aaadd0e4a10dc093a/1bgrep.png)
 
+## RESULT
+ Thus the study and execution of  Simulate Unix commands has been completed successfully.
 
 
