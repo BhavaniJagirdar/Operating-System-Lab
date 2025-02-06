@@ -38,4 +38,4 @@ int main() {
     }
 ```
 # Output
-![Semsphore output]
+![Semsphore output](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/b82717977f3ae31bcff67fbfe114f0182a7f37ac/Exp4/4aexp.png)
