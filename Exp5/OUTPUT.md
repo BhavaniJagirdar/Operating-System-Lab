@@ -84,3 +84,6 @@ int main() {
 ## OUTPUT:
 ![output](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/4e8fa943014a3ecc01d4d080bfc7a3eb69f6fc67/Exp5/5exp_os(1).png)
 
+## RESULT
+ Thus the study and execution of threads using pthreads library has been successfully completed.
+
