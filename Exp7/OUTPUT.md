@@ -120,5 +120,5 @@ int main() {
 ```
 # Output Screen Shots
 ![ First Screen Shot](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/3e171683b7eb0317a719af418edd35a06a7ad38b/Exp7/7(1)exp_os.png)
-![ Second Screen Shot]()
+![ Second Screen Shot](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/a86e72046b9ede032c0ef78ce9c81d13fe22161c/Exp7/7(2)exp_os.png)
 
