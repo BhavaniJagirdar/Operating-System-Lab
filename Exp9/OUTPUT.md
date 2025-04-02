@@ -140,6 +140,6 @@ int main() {
 }
 ```
 # Output:
-![ Screenshot]()
+![ Screenshot](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/7ad7bcc4406d7510ebc066705c7e9ec88c4b31e4/Exp9/9exp_os.png)
 
 
