@@ -159,4 +159,4 @@ int main() {
 }
 ```
 # Output
-![Page Replacement Algorithms]()
+![Page Replacement Algorithms](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/42f9808492c1efc8d5ac24d8f58e70c6e2f858ed/Exp8/8exp_os.png)
