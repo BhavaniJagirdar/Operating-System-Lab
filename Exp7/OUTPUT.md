@@ -119,6 +119,6 @@ int main() {
 }
 ```
 # Output Screen Shots
-![ First Screen Shot]()
-![! Second Screen Shot]()
-![! Third Screen Shot]()
+![ First Screen Shot](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/3e171683b7eb0317a719af418edd35a06a7ad38b/Exp7/7(1)exp_os.png)
+![ Second Screen Shot]()
+
