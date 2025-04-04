@@ -172,4 +172,4 @@ int main() {
 }
 ```
 
-![screenshot]()
+![screenshot](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/61bf6effe70e2d0ff74c5f7b9621e83ea3c7dc7a/Exp10/10cexp_os.png)
