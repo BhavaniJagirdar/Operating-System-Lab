@@ -114,7 +114,7 @@ int main()
 }
 ```
 
-![screenshot]()
+![screenshot](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/4f5b41dc4c21b01ac3ee8f1d912b7b4f71a523f1/Exp10/10bexp_os.png)
 
 <h1>Source code for Linked</h1>
 
