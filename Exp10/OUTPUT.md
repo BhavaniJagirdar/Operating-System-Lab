@@ -48,7 +48,7 @@ int main()
 }
 ```
 
-![screenshot]()
+![screenshot](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/5d95df02be8de80d7f35996e0f6b6ebc59d597b4/Exp10/10aexp_os.png)
 
 <h1>SOurce code for Indexed</h1>
 
