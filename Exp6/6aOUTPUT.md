@@ -160,4 +160,4 @@ int main() {
 }
 ```
 
-![screenshot](6b.png)
+![screenshot](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/0918363311d571df54ccd6bd4453068443c33542/Exp6/6aexp_os.png)
