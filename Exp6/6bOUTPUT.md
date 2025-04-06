@@ -128,4 +128,4 @@ int main() {
     return 0;
 }
 ```
-![screenshot](6a.png)
+![screenshot](https://github.com/BhavaniJagirdar/Operating-System-Lab/blob/bc26176265b9b3f67d510826140f114a67490ecc/Exp6/6bexp_os.png)
